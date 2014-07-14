@@ -1,4 +1,3 @@
-simple-grunt
+GLOG
 ============
-
-A clear bare-bones Gruntfile for Grunt that serves content via HTTP/S. Great for starting out with an idea of an app without bloat from minimizers, compressors, linters, etc.
+A gist blogging platform that doesn't require anything else except gists. GLOG comes from Gist-Log. Like a Blog but instead it's Glog. Very astute.
